@@ -1,5 +1,3 @@
-# 🚀 Edgar GM
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Edgar%20GM&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Architect%20%7C%20Full-Stack%20Web%20Development%20%7C%20Microservices%20Expert&descAlignY=75&descAlign=50)
