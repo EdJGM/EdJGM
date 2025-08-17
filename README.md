@@ -1,16 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Edgar%20GM&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Architect%20%7C%20Full-Stack%20Web%20Development%20%7C%20Microservices%20Expert&descAlignY=75&descAlign=50)
-
-</div>
-
-> *"Arquitecto de soluciones escalables con IA integrada y microservicios distribuidos"*
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Edgar%20GM&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering&descAlignY=75&descAlign=50)
 
 ---
 
 ## 🧠 Perfil Técnico
 
-**Software Architect** especializado en **arquitecturas distribuidas**, **inteligencia artificial** y **sistemas escalables**. Con experiencia comprobada en el desarrollo de aplicaciones complejas desde el diseño de microservicios hasta la implementación de modelos de machine learning en producción.
+Especializado en **arquitecturas distribuidas**, **inteligencia artificial** y **sistemas escalables**. Con experiencia en el desarrollo de aplicaciones complejas desde el diseño de microservicios hasta la implementación de modelos de machine learning en producción.
 
 🎯 **Enfoque Actual**: Arquitecturas de microservicios, AI/ML Integration, Cloud-Native Development  
 🌟 **Especialización**: Event-Driven Architecture, Computer Vision, Real-time Systems  
@@ -162,44 +158,6 @@ Engine: Godot 4.x
 Language: GDScript
 Game Type: 2D/3D game development
 Features: Physics, Animation, Scene management
-```
-
----
-
-## 🏛️ Expertise en Arquitectura
-
-```python
-class SoftwareArchitect:
-    def __init__(self):
-        self.microservices = {
-            "patterns": ["Event-Driven", "CQRS", "Saga Pattern"],
-            "messaging": ["RabbitMQ", "Apache Kafka", "Message Queues"],
-            "databases": ["Polyglot Persistence", "RDBMS", "NoSQL"],
-            "deployment": ["Kubernetes", "Docker", "Service Mesh"]
-        }
-        
-        self.ai_ml = {
-            "frameworks": ["TensorFlow", "PyTorch", "scikit-learn"],
-            "computer_vision": ["OpenCV", "Image Classification", "Object Detection"],
-            "deployment": ["TensorFlow Lite", "ONNX", "Model Serving"],
-            "data_processing": ["Pandas", "NumPy", "Data Pipelines"]
-        }
-        
-        self.mobile_development = {
-            "frameworks": ["Flutter", "React Native"],
-            "languages": ["Dart", "TypeScript", "Kotlin"],
-            "features": ["Camera API", "Local Storage", "Real-time Sync"]
-        }
-    
-    def architectural_principles(self):
-        return {
-            "🧩 Modularity": "Microservices desacoplados con responsabilidades únicas",
-            "📡 Event-Driven": "Comunicación asíncrona mediante eventos",
-            "🔄 Resilience": "Circuit breakers, timeouts, retry policies",
-            "📈 Scalability": "Auto-scaling horizontal y vertical",
-            "🔒 Security": "OAuth2, JWT, API Gateways, Rate Limiting",
-            "📊 Observability": "Logging, Monitoring, Distributed Tracing"
-        }
 ```
 
 ---
